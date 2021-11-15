@@ -1,0 +1,76 @@
+﻿#header {
+    font: bold 30px Georgia;
+    text-align: center;
+    background-color: pink;
+    width: 100%;
+    height: 50px;
+}
+
+#nav {
+    background-color: orange;
+    width: 30%;
+    height: 400px;
+    float: left;
+    overflow: scroll;
+}
+
+ul li {
+    top: 40px;
+    position: relative;
+    left: 20px;
+}
+
+h2 {
+    position: relative;
+    left: 10px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: pink;
+}
+
+img {
+    position: relative;
+    top: 80px;
+    left: 60px;
+}
+
+#game {
+    position: relative;
+    top: 60px;
+    left: 85px;
+}
+
+#content {
+    background-color: yellow;
+    width: 70%;
+    height: 400px;
+    float: right;
+    overflow: scroll;
+}
+
+#cont {
+    position: relative;
+    left: 10px;
+}
+
+#footer {
+    text-align: center;
+    color: white;
+    background-color: saddlebrown;
+    width: 100%;
+    height: 30px;
+    clear: both;
+}
